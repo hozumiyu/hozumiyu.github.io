@@ -1,6 +1,10 @@
 - title: Lecture Instructor
   type: time_table
   contents:
+    - title: FS2024 Math 1553
+      year: 08/2024 -12/2024
+      description:
+        - Introduction to Linear Algebra
     - title: SS2020 MTH124 
       year: 01/2020 - 05/2020
       description:
