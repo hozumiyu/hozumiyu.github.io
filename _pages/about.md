@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 I am currently a Hale Visiting Assistant Professor at the [School of Mathematics](https://math.gatech.edu/) at [Georgia Institute of Tecnology](https://www.gatech.edu/). I am working with Prof. [Christine E. Heitsch](https://ceheitsch.github.io/webpage/) on RNA secondary structure prediction. I obtained my Ph.D. from the Department of Mathematics at Michigan State University under the supervision of Prof. Guo-Wei Wei.
 
-My methodological research focuses on the development of mathematical tools for analyzing genome data, including RNA molecules, proteins, single cell RNA sequencing, etc. In Single cell RNA sequencing, I develop dimensionality reduction methods for downstream analysis, such as trajectory analysis, cell-cell interaction and differential gene expression. In genomic analysis, I am integrating topological data analysis tools to analyze the shape of the DNA sequences. I have recently begin utilizing applied combinatorics to determine consensus secondary RNA structure from homology RNA structures.
+My methodological research focuses on the development of mathematical tools for analyzing genome data, including RNA molecules, proteins, single cell RNA sequencing, etc. In Single cell RNA sequencing, I develop dimensionality reduction methods for downstream analysis, such as trajectory analysis, cell-cell interaction and differential gene expression. In genomic analysis, I am integrating topological data analysis tools to analyze the shape of the DNA sequences. I have recently begin utilizing applied combinatorics to determine consensus secondary RNA structure from homologous RNA structures.
 
 ## Research Interests
 * DNA/RNA sequence analysis
