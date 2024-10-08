@@ -1,0 +1,62 @@
+- title: Lecture Instructor
+  type: time_table
+  contents:
+    - title: SS2020 MTH124 
+      year: 01/2020 - 05/2020
+      description:
+        - Survey of Calculus I
+    - title: FS2019 MTH124
+      year: 09/2019 - 12/2019
+      description:
+        - Survey of Calculus I
+    - title: U2019 MTH124
+      year: 05/2019 - 07/2019
+      description:
+        - Survey of Calculus I
+
+
+- title: Recitation
+  type: time_table
+  contents:
+    - title: FS2019 MTH 309
+      year: 09/2019 - 12/2019
+      description:
+        - Linear Algebra
+        - Recitation, office hours, grading
+    - title: FS2019 MTH 451
+      year: 09/2019 - 12/2019
+      description:
+        - Numerical Analysis
+        - Recitation, office hours, grading
+
+- title: Japanese School Instructor
+  type: time_table
+  contents:
+    - title: High School Mathematics III
+      year: 04/2022 - 10/2022
+      description:
+        - AP Calculus BC equivalent
+    - title: High School Mathematics AB
+      year: 04/2022 - 10/2022
+      description:
+        - Discrete Mathematics and Proofs
+    - title: High School Mathematics III
+      year: 04/2021 - 04/2021
+      description:
+        - AP Calculus BC equivalent
+    - title: High School Mathematics AB
+      year: 04/2021 - 04/2022
+      description:
+        - Discrete Mathematics and Proofs
+    - title: High School Mathematics III
+      year: 04/2020 - 04/2021
+      description:
+        - AP Calculus BC equivalent
+    - title: High School Mathematics AB
+      year: 04/2020 - 04/2021
+      description:
+        - Discrete Mathematics and Proofs
+    - title: 7th Grade Japanese Mathematics
+      year: 09/2019 - 04/2020
+      description:
+        - 7th grade mathematics

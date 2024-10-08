@@ -1,0 +1,32 @@
+- title: Invited Talks and Seminar
+  type: time_table
+  contents:
+    - title: Applied Math Seminar @ Michigan State University
+      year:  11/10/2022
+      description: Recent Advances in Mathematical Modeling of Single Cell RNA Sequencing
+    - title: Women in Scientific Computing on Complex Physical and Biological Systems @ University of Florida
+      year:  10/24/2022
+      description: Correlated Clustering and Projection for Single Cell RNA Sequencing Data (Poseter)
+    - title: Mathematics Colloquium @ Calvin University
+      year: 02/02/2023
+      description: Application of Spectral Graph Theory on Biomolecular data
+    - title: 2022 SIAM Great Lakes Section Annual Meeting (GLSIAM) @ Wayne State University
+      year: 09/24/2022
+      description: Correlated Clustering and Projection for Dimensionality Reduction
+    - title: Computational Biology Forum @ Michigan State University
+      year: 03/15/2021
+      description: Correlated Clustering and Projection for Dimensionality Reduction for Dimensionality Reduction
+    - title: Computational Biology Forum @ Michigan State University
+      year: 10/10/2021
+      description: UMAP-assised k-Means Clustering of SARS-CoV-2
+
+
+- title: Conference Organized
+  type: time_table
+  contents:
+    - title: 2023 SIAM Great Lakes Section Annual Meeting (GLSIAM)
+      year:  10/14/2022
+      description: Mini-Symposium titled 'Mathematical Modeling and Analysis of Single Cell Omics Data'
+    - title: 2023 SIAM Great Lakes Section Annual Meeting (GLSIAM)
+      year:  10/14/2022
+      description: Mini-Symposium titled 'Mathematical Modeling of Biomolecular data'

@@ -1,0 +1,101 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Yuta Hozumi
+    - name: Languages
+      value: English, Japanese
+    - name: CV PDF
+      value: Full form of CV can be viewed here <a href="../assets/pdf/Hozumi_CV_2023.pdf"><i class="fas fa-file-pdf"></i></a>
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Applied Mathematics
+      institution: Michigan State University, East Lansing, MI
+      year: 09/2018 - 05/2024
+      description:
+        - Advisor Prof. Guowei Wei
+        - Dissertation title: Topological Representation and Dimensionality Reduction of Single Cell RNA Sequencing and Viral Phylogenetic Data
+    - title: B.Sc.
+      institution: Case Western Reserve University, Cleveland, OH
+      year: 09/2013 - 07/2018
+      description:
+        - Applied Mathematics
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Assistant
+      institution: Michigan State University, East Lansing, MI
+      year: 05/2020 - current
+
+    - title: Teaching Assistant
+      institution: Michigan State University, East Lansing, MI
+      year: 08/2018 - 05/2020
+
+    - title: Undergraduate Researcher, Mathematics Department
+      institution: CaseWestern Reserve University, Cleveland, OH
+      year: 01/2016 - 05/2018
+
+    - title: Undergraduate Researcher, Physics Department
+      institution: CaseWestern Reserve University, Cleveland, OH
+      year: 01/2016 - 05/2018
+
+- title: Website Developed
+  type: time_table
+  contents:
+    - title: <a href="https://users.math.msu.edu/users/weig/SARS-CoV-2_Mutation_Tracker.html">MutationTracker</a>
+      year: 2020
+      description: An interactive website for tracking SARS-CoV-2 mutations.
+    - title: <a href="https://weilab.math.msu.edu/MutationAnalyzer/">MutationAnalyzer</a>
+      year: 2021
+      description: An interactive website for analyzing Spike protein RBD mutations.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 01/2023
+      items:
+        - College of Natural Science Completion Fellowship
+    - year: 10/2022
+      items:
+        - Women in Mathematics Travel Award
+    - year: 04/2020
+      items:
+        - Hertert T. Graham Scholarship Award
+    - year: 05/2017
+      items:
+      - SOURCE Summer Research Grant
+    - year: 07/2017
+      items:
+      - Research Education for Undergraduate (REU)
+
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Single Cell Omics Data
+      items:
+        - Downstream analysis, Differential Gene Expression (DGE), Cell-Cell Communication, Spatial-Temporal analysis, Multi-omics analysis, Clustering and Visualization
+    - title: Dimensionality Reduction
+      items:
+        - Correlated Clustering and Projection (CCP), Nonnegative matrix factorization (NMF), Principle Components Analysis, Deeplearning based dimensionality reduction (Transformers, Convolutional Neural Network), UMAP, t-SNE
+    - title: Data Visualization
+      items:
+        - Residue Similarity Plots, Vector Field Analysis, Anisotropic Motion, 3D molecular visualization
+    - title: Computational Topology and Geometry
+      items:
+        - Persistent Spectral Graph, Hessian Analysis, Curvature, Differential Geometry
+    - title: Machine Learning
+      items:
+        - Convolution neural network(CNN); U-Net; Long Short Term Memory network (LSTM); Gated Recurrent Units (GRU); Multitask learning; Transfer learning; AutoEncoder; Generative Adversarial Network (GAN); Clustering
+
+- title: Programming Languages
+  type: list
+  contents:
+    - Python, R, MATLAB, C++
+
+- title: Molecular Visualization and Computer Graphics Softwares
+  type: list
+  contents:
+    - VMD, PyMOL, ChimeraX
