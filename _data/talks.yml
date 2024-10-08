@@ -1,6 +1,9 @@
 - title: Invited Talks and Seminar
   type: time_table
   contents:
+    - tile: MATH4801 Undergraduate Seminar
+      year: 09/24/2024
+      description: Mathematical Methods in Molecular Biology
     - title: Applied Math Seminar @ Michigan State University
       year:  11/10/2022
       description: Recent Advances in Mathematical Modeling of Single Cell RNA Sequencing
