@@ -24,9 +24,18 @@
 - title: Conference Organized
   type: time_table
   contents:
+    - title: 2024 SIAM Conference on Mathematics of Data Science
+      year: 10/21/2024 - 10/25/2024
+      description: Integrating Topological Data Analysis and Data Science with Biological Applications
     - title: 2023 SIAM Great Lakes Section Annual Meeting (GLSIAM)
       year:  10/14/2022
       description: Mini-Symposium titled 'Mathematical Modeling and Analysis of Single Cell Omics Data'
     - title: 2023 SIAM Great Lakes Section Annual Meeting (GLSIAM)
       year:  10/14/2022
       description: Mini-Symposium titled 'Mathematical Modeling of Biomolecular data'
+
+
+- title: Posers
+  type: time_table
+  contents:
+    - title: K-mer topology
