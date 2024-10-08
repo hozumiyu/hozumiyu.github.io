@@ -7,7 +7,12 @@
       value: English, Japanese
     - name: CV PDF
       value: Full form of CV can be viewed here <a href="../assets/pdf/Hozumi_CV_2023.pdf"><i class="fas fa-file-pdf"></i></a>
-
+- title: Employment
+  type: time_table
+  contents:
+    - title: Hale Assitant Professor
+      institution: Georgia Institute of Technoloy, Atlanta, GA
+      year: 08/2024 - Current
 - title: Education
   type: time_table
   contents:
@@ -15,11 +20,11 @@
       institution: Michigan State University, East Lansing, MI
       year: 09/2018 - 05/2024
       description:
+        - Dissertation title Topological Representation and Dimensionality Reduction of Single Cell RNA Sequencing and Viral Phylogenetic Data
         - Advisor Prof. Guowei Wei
-        - Dissertation title: Topological Representation and Dimensionality Reduction of Single Cell RNA Sequencing and Viral Phylogenetic Data
     - title: B.Sc.
       institution: Case Western Reserve University, Cleveland, OH
-      year: 09/2013 - 07/2018
+      year: 09/2014 - 07/2018
       description:
         - Applied Mathematics
 
@@ -28,18 +33,18 @@
   contents:
     - title: Research Assistant
       institution: Michigan State University, East Lansing, MI
-      year: 05/2020 - current
+      year: 05/2020 - 07/2024
 
     - title: Teaching Assistant
       institution: Michigan State University, East Lansing, MI
       year: 08/2018 - 05/2020
 
     - title: Undergraduate Researcher, Mathematics Department
-      institution: CaseWestern Reserve University, Cleveland, OH
+      institution: Case Western Reserve University, Cleveland, OH
       year: 01/2016 - 05/2018
 
     - title: Undergraduate Researcher, Physics Department
-      institution: CaseWestern Reserve University, Cleveland, OH
+      institution: Case Western Reserve University, Cleveland, OH
       year: 01/2016 - 05/2018
 
 - title: Website Developed
