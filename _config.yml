@@ -154,8 +154,8 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ['_pages']
-  - google748615b0c16975e9.html
+include:
+  - _pages
 exclude:
   - bin
   - Gemfile
