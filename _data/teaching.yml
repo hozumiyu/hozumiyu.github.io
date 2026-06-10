@@ -1,8 +1,30 @@
 - title: Lecture Instructor
   type: time_table
   contents:
+    - title: SS2027 Math 4755 (Tentative)
+      year: 01/2027 - 05/2027
+      description:
+        - Mathematical Biology
+        - Half of the course on general mathematical biology
+        - Second half focuses on mathematical modeling of molecular biology
+    - title: FS2026 Math 3406
+      year: 08/2026 - 12/2026
+      description:
+        - Second Course in Linear Algebra (2 sections)
+    - title: SS2026 Math 3406
+      year: 01/2026 - 05/2026
+      description:
+        - Second Course in Linear Algebra
+    - title: FS2025 Math 1554
+      year: 08/2025 - 12/2025
+      description:
+        - Linear Algebra (2 sections)
+    - title: SS2025 Math 1552
+      year: 01/2025 - 05/2025
+      description:
+        - Integral Calculus
     - title: FS2024 Math 1553
-      year: 08/2024 -12/2024
+      year: 08/2024 - 12/2024
       description:
         - Introduction to Linear Algebra
     - title: SS2020 MTH124 
