@@ -18,17 +18,16 @@ news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
+I am currently on the job market!
+
 I am currently a Hale Visiting Assistant Professor at the [School of Mathematics](https://math.gatech.edu/) at [Georgia Institute of Tecnology](https://www.gatech.edu/). I am working with Prof. [Christine E. Heitsch](https://ceheitsch.github.io/webpage/) on RNA secondary structure prediction. I obtained my Ph.D. from the Department of Mathematics at Michigan State University under the supervision of Prof. Guo-Wei Wei.
 
 My methodological research focuses on the development of mathematical tools for analyzing genome data, including RNA molecules, proteins, single cell RNA sequencing, etc. In Single cell RNA sequencing, I develop dimensionality reduction methods for downstream analysis, such as trajectory analysis, cell-cell interaction and differential gene expression. In genomic analysis, I am integrating topological data analysis tools to analyze the shape of the DNA sequences. I have recently begin utilizing applied combinatorics to determine consensus secondary RNA structure from homologous RNA structures.
 
 ## Research Interests
-* DNA/RNA sequence analysis
-* Single Cell Omics Data
-* Dimensionality Reduction
-* Data Visualization
-* Computational Topology and Geometry
-* Machine Learning and Deep Learning
+My interest lies in geometric data analysis, where I extract topological and geometrical features from complex biological dataset, such as noisy large gene-expression matrix, genomic sequence, and molecular structures. The goal is to extract interpretable (both in terms of mathematically and biologically), so that these complex data can be compared, giving insight to biological process, such as disease prognosis, predicting folding, and understanding viral evolution.
+
+
 
 ## Recent/Upcoming Events
 10/21/2024-10/25-2024: I am attending the SIAM Mathemtics of Data Science in Atlanta. I will have a poster on Tuesday and Wedensday. I am also hosting a session titled [Integrating Topological Data Analysis and Data Science with Biological Applications](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80565)
