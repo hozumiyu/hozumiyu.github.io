@@ -1,6 +1,9 @@
 - title: Invited Talks and Seminar
   type: time_table
   contents:
+    - title: 2025 SIAM Southeastern Sectional
+      year: 03/21/2025
+      description: Revealing the Shape of Genome Space via K-mer Topology
     - title: MATH4801 Undergraduate Seminar
       year: 09/24/2024
       description: Mathematical Methods in Molecular Biology
@@ -27,6 +30,15 @@
 - title: Conference Organized
   type: time_table
   contents:
+    - title: Joint Math Meeting (upcoming)
+      year: 01/14/2027
+      description:  AMS Special Session on Integrating Data and Models in Mathematical Biology
+    - title: 2026 Fall AMS Southeastern Sectional
+      year: 10/17/2026
+      description: Special Session on Recent Advances in Mathematical and Computational Modeling for Biological
+    - title: 2025 SIAM Southeastern Sectional
+      year: 03/21/2025
+      description: Recent advances in mathematical biology: Modeling life across scales
     - title: 2024 SIAM Conference on Mathematics of Data Science
       year: 10/23/2024
       description: Integrating Topological Data Analysis and Data Science with Biological Applications
