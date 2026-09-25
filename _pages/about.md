@@ -30,9 +30,11 @@ My interest lies in geometric data analysis, where I extract topological and geo
 
 
 ## Recent/Upcoming Events
-10/21/2024-10/25-2024: I am attending the SIAM Mathemtics of Data Science in Atlanta. I will have a poster on Tuesday and Wedensday. I am also hosting a session titled [Integrating Topological Data Analysis and Data Science with Biological Applications](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80565)
+* I am giving a talk at the upcoming AMS southeastern sectional and SIAM Texas-Louisiana Sectional.
+* I am giving a talk at the upcoming SIAM Mathematics of Data science
+* Nicole Hayes (U. Mich) and I are organizing a special session at JMM 2027. We have a wide range of topic dealing with complex biological data and mathematical modeling.
+* Excited to announce that my postoc mentor (Christine Heitsch), Svetlana Poznanovikj (Clemson) and I recently got our paper on RNA folding prediction accepted to Biophysical Journal.
 
-10/01/2024: I recently had my paper titled CCP-assisted UMAP and tSNE for scRNA-seq data analyis in PLOS ONE 
 
 
 <!-- <h3 class="card-title font-weight-medium">Research Interests</h3>
